@@ -7,5 +7,7 @@ main(int argc, char **argv)
 
 	printf("This is a new branch.\n");
 
+	printf("This is a change to a new branch.\n");
+
 	return 0;
 }
